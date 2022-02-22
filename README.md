@@ -1,3 +1,17 @@
+Telegram link to test bot:
+
+https://t.me/stockandsharesbot
+
+Azure Web App link for bot:
+
+https://stockmarket-bot.azurewebsites.net
+
+The project has been created for people who want to learn the basics of stock market. A user can chat with the bot on Telegram app. The bot answers basic questions such as 'what is a stock?', 'what is a demat account?', 'what is SEBI?' etc.
+
+The github repo has an excel sheet with all the questions that have been trained on the bot.
+
+This project was made as a part of FUTURE READY TALENT Internship.
+
 # QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
