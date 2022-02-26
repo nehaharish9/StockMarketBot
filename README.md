@@ -2,6 +2,10 @@ Telegram link to test bot:
 https://t.me/stockandsharesbot (works on mobile app and web)
 
 
+Youtube Demo Video Link:
+https://youtu.be/--PT9CqCjiI
+
+
 Azure Web App link for bot:
 https://stockmarket-bot.azurewebsites.net
 
